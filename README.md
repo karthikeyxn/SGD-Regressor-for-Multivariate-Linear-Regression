@@ -91,6 +91,9 @@ Predictions:
  [ 2.10914107 35.63894336]]
 ```
 ## Output:
+
+Mean:
+
 ![image](https://github.com/user-attachments/assets/1e6c626f-8096-49d4-93b8-97ca749326d3)
 
 
